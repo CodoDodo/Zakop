@@ -1,9 +1,10 @@
+<p align="center"><b>Available only in Polish language</b></p>
+
 ![Zakop](https://github.com/CodoDodo/Zakop/blob/master/github-image.png?raw=true)
 
 <br/>
 
 # Zakop
-(Available only in Polish language) 
 
 Nieoficjalny klient Wykopu na system iOS
 <br/>
