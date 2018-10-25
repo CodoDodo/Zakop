@@ -14,8 +14,9 @@
 
 # Jak pobrać?
 
-Aplikacja Zakop jest obecnie w fazie testów Beta. Aby dołączyć do testowania, napisz do nas prywatną wiadomość na Wykop.pl: 
-https://www.wykop.pl/ludzie/CodoDodoApps/
+Aplikacja Zakop jest obecnie w fazie testów Beta. 
+
+Aby dołączyć do testowania, napisz do nas prywatną wiadomość na Wykop.pl: https://www.wykop.pl/ludzie/CodoDodoApps/
 
 Usługa TestFlight będzie dostępna wkrótce.
 
