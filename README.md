@@ -4,7 +4,12 @@
 
 <p align="center">Nieoficjalny klient Wykopu na system iOS</p>
 
-<br/>
+<p align="center" float="left">
+  <img src="/Screenshots/screenshot1.PNG" width="24%" />
+  <img src="/Screenshots/screenshot2.PNG" width="24%" />
+  <img src="/Screenshots/screenshot3.PNG" width="24%" />
+  <img src="/Screenshots/screenshot4.PNG" width="24%" />
+</p>
 
 # Zakop
 
