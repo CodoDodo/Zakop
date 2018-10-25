@@ -15,7 +15,7 @@
 
 <br/>
 
-<p align="center">Witaj na oficjalnym profilu aplikacji Zakop na system iOS! Możesz tutaj zobaczyć nasz <a href="http://github.com/CodoDodo/Zakop/issues">Issue Tracker</a>, <a href="http://github.com/CodoDodo/Zakop/wiki">Wiki</a> i nie tylko!</p>
+<p align="center">Witaj na oficjalnym profilu aplikacji Zakop (iOS)!<br/>Możesz tutaj zobaczyć nasz <a href="http://github.com/CodoDodo/Zakop/issues">Issue Tracker</a>, <a href="http://github.com/CodoDodo/Zakop/wiki">Wiki</a> i nie tylko!</p>
 
 # Jak pobrać?
 
