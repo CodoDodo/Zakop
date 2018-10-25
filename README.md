@@ -17,7 +17,7 @@ https://www.wykop.pl/ludzie/CodoDodoApps/
 
 Usługa TestFlight będzie dostępna wkrótce.
 
-# Pomocne łącza
+# Linki
 
 Here you can find some useful links:
 
