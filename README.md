@@ -2,11 +2,12 @@
 
 ![Zakop](https://github.com/CodoDodo/Zakop/blob/master/github-image.png?raw=true)
 
+<p align="center">Nieoficjalny klient Wykopu na system iOS</p>
+
 <br/>
 
 # Zakop
 
-Nieoficjalny klient Wykopu na system iOS
 <br/>
 
 <p align="center">Witaj na oficjalnym profilu aplikacji Zakop na system iOS! Możesz tutaj zobaczyć nasz <a href="http://github.com/CodoDodo/Zakop/issues">Issue Tracker</a>, <a href="http://github.com/CodoDodo/Zakop/wiki">Wiki</a> i nie tylko!</p>
