@@ -15,18 +15,18 @@
 
 <br/>
 
-<p align="center">Witaj na oficjalnym profilu aplikacji Zakop (iOS)!<br/>Możesz tutaj zobaczyć nasz <a href="http://github.com/CodoDodo/Zakop/issues">Issue Tracker</a>, <a href="http://github.com/CodoDodo/Zakop/wiki">Wiki</a> i nie tylko!</p>
+<p align="center">Witaj na oficjalnym profilu GitHub dla aplikacji Zakop!<br/>W tym miejscu możesz <a href="http://github.com/CodoDodo/Zakop/issues">zgłosić nam nowy błąd lub zaproponować nowe funkcje do dodania w przyszłości</a>.
 
 # Jak pobrać?
 
-Aplikacja Zakop jest obecnie w fazie testów Beta. 
+Aplikacja Zakop jest dostępna do pobrania bezpośrednio z AppStore https://itunes.apple.com/pl/app/zakop-wykop-pl-browser/id1440067004.
 
-Aby dołączyć do testowania, napisz do nas prywatną wiadomość na Wykop.pl: https://www.wykop.pl/ludzie/CodoDodoApps/
-
-Usługa TestFlight będzie dostępna wkrótce.
+Co jakiś czas prowadzimy testy beta na Testflight. Aby dowiedzieć się czy takie obecnie trwają, odwiedź nasz profil na Wykopie. 
 
 # Linki
 
 Here you can find some useful links:
 
 * Tag ze zmianami: https://www.wykop.pl/tag/aplikacjazakop
+* Nasz profil na Wykopie: https://www.wykop.pl/ludzie/CodoDodoApps
+* Nasza strona www: https://www.codododo.com
