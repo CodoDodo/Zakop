@@ -21,7 +21,8 @@
 
 Aplikacja Zakop jest dostępna do pobrania bezpośrednio z AppStore https://itunes.apple.com/pl/app/zakop-wykop-pl-browser/id1440067004.
 
-Co jakiś czas prowadzimy testy beta na Testflight. Aby dowiedzieć się czy takie obecnie trwają, odwiedź nasz profil na Wykopie. 
+Co jakiś czas prowadzimy testy beta na Testflight.
+Aby dowiedzieć się czy takie obecnie trwają, odwiedź nasz profil na Wykopie. 
 
 # Linki
 
